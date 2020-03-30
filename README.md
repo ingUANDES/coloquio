@@ -38,9 +38,9 @@ La evaluación de los informes será [entre pares o _peer grading_](https://www.
 ## Documentos tipo
 
 - [Documento Respaldo Competencias](templates/Document.Rmd)
-- [Base de datos con literatura](biblio.bib)
-- [Presentación Tipo](Presentation.Rmd)
-- [Formato de referencias del Journal of Public Economics](journal-of-public-economics.csl)
+- [Base de datos con literatura](templates/biblio.bib)
+- [Presentación Tipo](templates/Presentation.Rmd)
+- [Formato de referencias del Journal of Public Economics](templates/journal-of-public-economics.csl)
 
 ## Tips y Herramientas
 
