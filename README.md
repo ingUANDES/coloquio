@@ -4,7 +4,7 @@
 
 - Juicio experto de un artículo científico
   - Redacción en código LaTeX: gráficos TikZ, markdown, knitR, pandoc
-  - Investigación reproducible
+  - Investigación reproducible: [Research transparency](readings/Granger - Research Transparency.pdf) 
   - Integración con Overleaf y/o RStudio
   - Juicio crítico/creativo/innovador/propositivo
 - [Control de versiones](https://audhalbritter.com/wp-content/uploads/2016/12/Github-%E2%80%93-R-studio-Cheat-Sheet.pdf) [(respaldo archivo en link)](GitHubRstudioConfig.pdf)
