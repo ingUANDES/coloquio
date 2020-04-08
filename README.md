@@ -14,7 +14,7 @@
 - Gestión referencias
   - Evaluación impacto científico referencias (IF y AI Clarivate Analytics)
   - Sistematización a través de Zotero: integración con Chrome y RStudio [(citR)](https://github.com/crsh/citr)
-  - Formateo automático de citas con formato csl
+  - Formateo automático de citas con formato [csl](https://citationstyles.org/)
   - Análisis bibliométrico https://www.bibliometrix.org/
 
 ## Calendarización: Miércoles
