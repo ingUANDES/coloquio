@@ -1,0 +1,78 @@
+Seminario doctoral 1 EII: Contenidos
+========================================================
+author: Sebastián Cea
+date: Abril 2020
+autosize: true
+
+
+
+Introducción: práctica
+========================================================
+
+¿En qué consiste el seminario de doctorado 1 **en la práctica**?
+
+- Asistir a presentaciones
+- Preparar un informe de cada presentación
+
+¿Cuáles son los resultados de semestres anteriores?
+
+- Informes con poco valor agregado: cumplir para tener nota
+
+¿Por qué?
+
+- Falta de un acompañamiento que enriquezca la percepción de los alumnos sobre los trabajos que ven exponerse en seminarios
+
+Introducción: Teórica
+========================================================
+
+¿En qué consiste el seminario de doctorado 1 **en teoría**?
+
+- Conocer áreas de trabajo de los investigadores EII
+- Aprender a juzgar el valor de un trabajo tanto por su contribución metodológica como por su "impacto científico"
+
+¿Cuáles son los resultados de semestres anteriores?
+
+- Escasa interacción alumnos-presentador
+
+¿Por qué?
+
+- Necesidad de preparar, previamente, el seminario: 
+
+<center>
+"sicopatear el trabajo del investigador previamente"
+</center>
+
+Evaluación
+========================================================
+
+- Informes _tipo referee_ de presentaciones (50%)
+  - Ejes rúbrica: Descripción general del trabajo presentado, Descripción específica del marco conceptual, Identificación de la contribución del trabajo, Análisis de la literatura relacionada, Comentario adicional.
+  - Escala evaluación: Likert 1-5 para cada eje que constituyen una nota por cada informe.
+- Repositorio respaldo de competencias adquiridas (50%)
+  - Rúbrica: Mostrar que se utilizaron las competencias requeridas
+  - Escala evaluación: cumplimiento (si/no) en caso de no cumplir una competencia se descuenta el proporcional de la nota máxima
+
+Competencias
+========================================================
+
+- Juicio experto de un artículo científico: $\LaTeX$, TikZ, markdown, knitR, pandoc, Investigación reproducible, Overleaf, RStudio, RStudio Cloud
+- Control de versiones: git, branching, Kanban
+- Gestión referencias: impacto científico, Impact Factor, Article Influence, ISI, Clarivate Analytics, Zotero, citR, CSL, bibliometrix
+
+****
+
+<center>
+![menti](img/20200408menti.png)
+[menti.com código 86 75 67](https://www.menti.com/c72dh653zo)
+</center>
+
+Calendario
+========================================================
+
+- Abril: 8 (Revisión avances y dudas), 15 (Feijoo), 22, 29 (Cea)
+
+- Mayo: 6 (Bustos), 13, 20, 27
+
+- Junio: 3 (Basso), 10, 17, 24
+
+- Julio: 1 (Gutiérrez), 8, 15 (Leiva)
