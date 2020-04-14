@@ -19,13 +19,13 @@
 
 ## Calendarización: Miércoles
 
-- Abril: 8 (Revisión avances y dudas), 15 (Feijoo), 22, 29 (Cea)
+- Abril: 8 ([Revisión avances y dudas](https://drive.google.com/file/d/136Oh9IJhCsVFfJr7OWj0TDMQPlxZdSgm/view?usp=sharing)), 15 (Feijoo), 22, 29 (Cea)
 
-- Mayo: 6 (Bustos), 13, 20, 27
+- Mayo: 6 (Bustos), 13, 20 (Durán), 27
 
-- Junio: 3 (Basso), 10, 17, 24
+- Junio: 3 (Basso), 10, 17, 24 (Gutiérrez)
 
-- Julio: 1 (Gutiérrez), 8, 15 (Leiva)
+- Julio: 1 (de la Fuente), 8, 15 (Leiva)
 
 ## Evaluación 
 
