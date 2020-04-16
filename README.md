@@ -19,7 +19,13 @@
 
 ## Calendarización: Miércoles
 
-- Abril: 8 ([Revisión avances y dudas](https://drive.google.com/file/d/136Oh9IJhCsVFfJr7OWj0TDMQPlxZdSgm/view?usp=sharing)), 15 (Feijoo), 22, 29 (Cea)
+- Abril: 
+  - 8: Revisión avances y dudas [(video)](https://drive.google.com/file/d/136Oh9IJhCsVFfJr7OWj0TDMQPlxZdSgm/view?usp=sharing) 
+  [(diapositivas)](Contenidos.Rpres)
+  - 15: Feijoo 
+  [(video)](https://drive.google.com/file/d/1KTzkmNs9iE64mKYB-XY_pkobUvzWMWWY/view?usp=sharing)
+  [(diapositivas)](docs/feijoo/Seminario_Teo_Econ_July18_Feijoo_PUCV.pptx)
+  - 22, 29 (Cea)
 
 - Mayo: 6 (Bustos), 13, 20 (Durán), 27
 
