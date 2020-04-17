@@ -1,9 +1,11 @@
 ---
-output:
-  pdf_document: default
-  html_document: default
+title: "Seminario Doctorado EII PUCV"
+author: EII
+date: April 2020
+link-citations: true
+urlcolor: blue
+url2cite: all-links
 ---
-# Seminario Doctorado EII PUCV
 
 ## Competencias a adquirir
 
@@ -32,7 +34,7 @@ output:
   - 15: Feijoo 
   [(video)](https://drive.google.com/file/d/1KTzkmNs9iE64mKYB-XY_pkobUvzWMWWY/view?usp=sharing)
   [(diapositivas)](docs/feijoo/Seminario_Teo_Econ_July18_Feijoo_PUCV.pptx)
-  Referencias: [@feijoo2015]
+  Referencias: [@rioux2019] [@feijoo2016] [@feijoo2015] [@feijoo2014]
   - 22, 29 (Cea)
 
 - Mayo: 6 (Bustos), 13, 20 (Durán), 27
@@ -70,4 +72,7 @@ La evaluación de los informes será [entre pares o _peer grading_](https://www.
 
 ## References
 
+[@rioux2019]: https://www.sciencedirect.com/science/article/pii/S0140988319300052?via%3Dihub
+[@feijoo2016]: https://www.sciencedirect.com/science/article/pii/S0360544216309070?via%3Dihub
 [@feijoo2015]: https://www.sciencedirect.com/science/article/pii/S036054421500866X?via%3Dihub
+[@feijoo2014]: https://www.sciencedirect.com/science/article/pii/S0306261914000385?via%3Dihub
