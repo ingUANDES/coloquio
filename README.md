@@ -1,9 +1,14 @@
+---
+output:
+  pdf_document: default
+  html_document: default
+---
 # Seminario Doctorado EII PUCV
 
 ## Competencias a adquirir
 
 - Juicio experto de un artículo científico
-  - Redacción en código LaTeX: gráficos TikZ, markdown, knitR, pandoc
+  - Redacción en código LaTeX: gráficos TikZ, markdown, knitR, [pandoc](https://opensource.com/article/18/9/pandoc-research-paper)
   - Investigación reproducible: [Research transparency](readings/Granger - Research Transparency.pdf) 
   - Integración con Overleaf y/o RStudio
   - Juicio crítico/creativo/innovador/propositivo
@@ -27,6 +32,7 @@
   - 15: Feijoo 
   [(video)](https://drive.google.com/file/d/1KTzkmNs9iE64mKYB-XY_pkobUvzWMWWY/view?usp=sharing)
   [(diapositivas)](docs/feijoo/Seminario_Teo_Econ_July18_Feijoo_PUCV.pptx)
+  Referencias: [@feijoo2015]
   - 22, 29 (Cea)
 
 - Mayo: 6 (Bustos), 13, 20 (Durán), 27
@@ -61,3 +67,7 @@ La evaluación de los informes será [entre pares o _peer grading_](https://www.
 - Reticulate: integración Python-R  
 - [Herramientas de Finanzas Cuantitativas con Python](https://www.quantopian.com/lectures)
 - [Swirl](https://swirlstats.com/instructors.html)
+
+## References
+
+[@feijoo2015]: https://www.sciencedirect.com/science/article/pii/S036054421500866X?via%3Dihub
