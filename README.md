@@ -7,7 +7,8 @@
   - Investigación reproducible: [Research transparency](readings/Granger - Research Transparency.pdf) 
   - Integración con Overleaf y/o RStudio
   - Juicio crítico/creativo/innovador/propositivo
-    - Lecturas recomendadas: [Berk et alii - How to Write an Effective Referee Report and Improve the Scientific Review Process - J Econ Perspective (2017)](https://www.aeaweb.org/articles?id=10.1257/jep.31.1.231)
+    - Lecturas recomendadas: [Berk et alii - How to Write an Effective Referee Report and Improve the Scientific Review Process - J Econ Perspectives (2017)](https://www.aeaweb.org/articles?id=10.1257/jep.31.1.231)
+    - Tip: Usualmente se pide un juicio del tipo acepto/rechazo, en los informes de charlas cultivaremos un estilo propositivo y omitiremos ese tipo de juicios ([acá algunas preguntas que se pueden hacer para juzgar la contribución en análisis](https://are.berkeley.edu/courses/ARE251/2004/assignments/RRGuidelines.pdf))
 - [Control de versiones](https://audhalbritter.com/wp-content/uploads/2016/12/Github-%E2%80%93-R-studio-Cheat-Sheet.pdf) [(respaldo archivo en link)](GitHubRstudioConfig.pdf)
   - git: flujo básico y branching
   - Flujo Kanban
