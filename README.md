@@ -45,8 +45,8 @@ url2cite: all-links
 
 ## Evaluación 
 
-- Informes _tipo referee_ de presentaciones (50%)
-  - Ejes rúbrica: Descripción general del trabajo presentado, Descripción específica del marco conceptual, Identificación de la contribución del trabajo, Análisis de la literatura relacionada, Comentario adicional.
+- Informes _tipo referee_ de presentaciones (50%) (template formatos [Rmd](templates/Informe.Rmd), [$\LaTeX$](templates/Informe.tex))
+  - Ejes rúbrica: Descripción general del trabajo presentado, Análisis de la literatura relacionada, Descripción específica del marco conceptual, Identificación de la contribución del trabajo, Comentario adicional.
   - Escala evaluación: Likert 1-5 para cada eje que constituyen una nota por cada informe.
 - Repositorio respaldo de competencias adquiridas (50%)
   - Rúbrica: Mostrar que se utilizaron las competencias requeridas
