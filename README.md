@@ -36,6 +36,9 @@ url2cite: all-links
   [(diapositivas)](docs/feijoo/Seminario_Teo_Econ_July18_Feijoo_PUCV.pptx)
   Referencias: [@rioux2019] [@feijoo2016] [@feijoo2015] [@feijoo2014]
   - 22, 29 (Cea)
+  [(video)](https://drive.google.com/file/d/1V6Ve-F5cdhVWcFVdfpErLfxJiqjf9wEd/view?usp=sharing)
+  [(diapositivas)](docs/cea/Presentation.pdf)
+  [(artículo)](docs/cea/20200429CeaMarinovic.pdf)
 
 - Mayo: 6 (Bustos), 13, 20 (Durán), 27
 
