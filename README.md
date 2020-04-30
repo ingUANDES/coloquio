@@ -55,7 +55,7 @@ url2cite: all-links
   - Rúbrica: Mostrar que se utilizaron las competencias requeridas
   - Escala evaluación: cumplimiento (si/no) en caso de no cumplir una competencia se descuenta el proporcional de la nota máxima
 
-La evaluación de los informes será [entre pares o _peer grading_](https://www.cs.cornell.edu/people/tj/publications/raman_joachims_14a.pdf) con mecanismo a definir democráticamente entre algún _strategy-proof_ mencionado [aqui.](https://arxiv.org/pdf/1604.03632.pdf)
+La evaluación de los informes será [entre pares o _peer grading_](https://www.cs.cornell.edu/people/tj/publications/raman_joachims_14a.pdf) con mecanismo a definir democráticamente entre algún _strategy-proof_ mencionado [aqui.](https://arxiv.org/pdf/1604.03632.pdf) o [acá](https://arxiv.org/abs/1807.11657).
 
 ## Documentos tipo
 
