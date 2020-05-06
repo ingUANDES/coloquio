@@ -42,9 +42,15 @@ url2cite: all-links
 
 - Mayo: 
   - 6 (Bustos): [(diapositivas)](docs/bustos/SeminarioInvestigacionEntidadesProcesosNegocio.pdf)
-  - 13, 20 (Durán), 27
+  - 13, 
+  - 20 (Durán), 
+  - 27
 
-- Junio: 3 (Basso), 10, 17, 24 (Gutiérrez)
+- Junio: 
+  - 3 (Basso), 
+  - 10 (Feijoo), 
+  - 17, 
+  - 24 (Gutiérrez)
 
 - Julio: 1 (de la Fuente), 8, 15 (Leiva)
 
