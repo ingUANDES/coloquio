@@ -40,7 +40,9 @@ url2cite: all-links
   [(diapositivas)](docs/cea/Presentation.pdf)
   [(artículo)](docs/cea/20200429CeaMarinovic.pdf)
 
-- Mayo: 6 (Bustos), 13, 20 (Durán), 27
+- Mayo: 
+  - 6 (Bustos): [(diapositivas)](docs/bustos/SeminarioInvestigaciónEntidadesProcesosNegocio.pdf)
+  - 13, 20 (Durán), 27
 
 - Junio: 3 (Basso), 10, 17, 24 (Gutiérrez)
 
