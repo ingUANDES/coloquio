@@ -41,7 +41,13 @@ url2cite: all-links
   [(artículo)](docs/cea/20200429CeaMarinovic.pdf)
 
 - Mayo: 
-  - 6 (Bustos): [(diapositivas)](docs/bustos/SeminarioInvestigacionEntidadesProcesosNegocio.pdf)
+  - 6 (Bustos): 
+  [(video)](https://drive.google.com/file/d/1d3g0JdRm9GSnqhdyz2RMExQTzKjJfZpZ/view?usp=sharing)
+  [(diapositivas)](docs/bustos/SeminarioInvestigacionEntidadesProcesosNegocio.pdf)
+  Referencias:
+  [(Gonzalez 2019)](docs/bustos/González-Thesis(2019))
+  [(Bustos y Gonzalez)](docs/bustos/Bustos andGonzalez-Integration)
+  [(Vauquier 2008)](docs/bustos/Vauquier-Six Fallacies(2008).pdf))
   - 13, 
   - 20 (Durán), 
   - 27
