@@ -45,8 +45,8 @@ url2cite: all-links
   [(video)](https://drive.google.com/file/d/1d3g0JdRm9GSnqhdyz2RMExQTzKjJfZpZ/view?usp=sharing)
   [(diapositivas)](docs/bustos/SeminarioInvestigacionEntidadesProcesosNegocio.pdf)
   Referencias:
-  [(Gonzalez 2019)](docs/bustos/González-Thesis(2019))
-  [(Bustos y Gonzalez)](docs/bustos/Bustos andGonzalez-Integration)
+  [(Gonzalez 2019)](docs/bustos/González-Thesis(2019).pdf)
+  [(Bustos y Gonzalez)](docs/bustos/BustosandGonzalez-Integration.pdf)
   [(Vauquier 2008)](docs/bustos/Vauquier-Six Fallacies(2008).pdf))
   - 13, 
   - 20 (Durán), 
