@@ -1,7 +1,7 @@
 ---
 title: "Seminario Doctorado EII PUCV"
 author: EII
-date: April 2020
+date: Mayo 2020
 link-citations: true
 urlcolor: blue
 url2cite: all-links
@@ -17,7 +17,7 @@ url2cite: all-links
     - Lecturas recomendadas: [Berk et alii - How to Write an Effective Referee Report and Improve the Scientific Review Process - J Econ Perspectives (2017)](https://www.aeaweb.org/articles?id=10.1257/jep.31.1.231)
     - Tip: Usualmente se pide un juicio del tipo acepto/rechazo, en los informes de charlas cultivaremos un estilo propositivo y omitiremos ese tipo de juicios ([acá algunas preguntas que se pueden hacer para juzgar la contribución en análisis](https://are.berkeley.edu/courses/ARE251/2004/assignments/RRGuidelines.pdf))
 - [Control de versiones](https://audhalbritter.com/wp-content/uploads/2016/12/Github-%E2%80%93-R-studio-Cheat-Sheet.pdf) [(respaldo archivo en link)](GitHubRstudioConfig.pdf)
-  - git: flujo básico y branching
+  - git: [flujo básico](https://julia.quantecon.org/more_julia/version_control.html) y branching
   - Flujo Kanban
   - Integración con GitHub y RStudio
 - Gestión referencias
@@ -34,7 +34,7 @@ url2cite: all-links
   - 15: Feijoo 
   [(video)](https://drive.google.com/file/d/1KTzkmNs9iE64mKYB-XY_pkobUvzWMWWY/view?usp=sharing)
   [(diapositivas)](docs/feijoo/Seminario_Teo_Econ_July18_Feijoo_PUCV.pptx)
-  Referencias: [@rioux2019] [@feijoo2016] [@feijoo2015] [@feijoo2014]
+  Referencias: [[rioux2019]](#rioux2019) [[feijoo2016]](#feijoo2016) [[feijoo2015]](#feijoo2015) [[feijoo2014]](#feijoo2014)
   - 22, 29 (Cea)
   [(video)](https://drive.google.com/file/d/1V6Ve-F5cdhVWcFVdfpErLfxJiqjf9wEd/view?usp=sharing)
   [(diapositivas)](docs/cea/Presentation.pdf)
@@ -50,10 +50,21 @@ url2cite: all-links
   [(Vauquier 2008)](docs/bustos/Vauquier-Six Fallacies(2008).pdf))
   - 13, 
   - 20 (Durán), 
+  [(video parte 1 de 2)](https://drive.google.com/file/d/1N478rnDF2Qmn6ThH_hY8z4x7g7r9VXCf/view?usp=sharing)
+  [(video parte 2 de 2)](https://drive.google.com/file/d/1OZl4QP7-pAD0-SYWnlwHzRjx58_pJrNM/view?usp=sharing)
+  [(diapositivas)](docs/duran/DuranMayo2020.pdf)
+  Referencias:
+  [[duran2020]](#duran2020)
+  [[alfonso2020]](#alfonso2020)
+  [[duran2019]](#duran2019)
   - 27
 
 - Junio: 
-  - 3 (Basso), 
+  - 3 (Basso):
+  [(diapositivas)]()
+  Referencias:
+  [[basso2018]](#basso2018)
+  [[basso2020]](#basso2020)
   - 10 (Feijoo), 
   - 17, 
   - 24 (Gutiérrez)
@@ -89,7 +100,29 @@ La evaluación de los informes será [entre pares o _peer grading_](https://www.
 
 ## References
 
-[@rioux2019]: https://www.sciencedirect.com/science/article/pii/S0140988319300052?via%3Dihub
-[@feijoo2016]: https://www.sciencedirect.com/science/article/pii/S0360544216309070?via%3Dihub
-[@feijoo2015]: https://www.sciencedirect.com/science/article/pii/S036054421500866X?via%3Dihub
-[@feijoo2014]: https://www.sciencedirect.com/science/article/pii/S0306261914000385?via%3Dihub
+<a id='alfonso2020'></a>
+[alfonso2020]: https://doi.org/10.1007/978-3-030-43616-2_19
+
+<a id='basso2018'></a>
+[basso2018]: https://doi.org/10.1016/j.trc.2017.11.014
+
+<a id='basso2020'></a>
+[basso2020]:https://doi.org/10.1016/j.aap.2020.105436
+
+<a id='duran2019'></a>
+[duran2019]: https://doi.org/10.3390/su11071835
+
+<a id='duran2020'></a>
+[duran2020]: https://doi.org/10.1016/j.ijpe.2019.09.020
+
+<a id='feijoo2016'></a>
+[feijoo2016]: https://www.sciencedirect.com/science/article/pii/S0360544216309070?via%3Dihub
+
+<a id='feijoo2015'></a>
+[feijoo2015]: https://www.sciencedirect.com/science/article/pii/S036054421500866X?via%3Dihub
+
+<a id='feijoo2014'></a>
+[feijoo2014]: https://www.sciencedirect.com/science/article/pii/S0306261914000385?via%3Dihub
+
+<a id='rioux2019'></a>
+[rioux2019]: https://www.sciencedirect.com/science/article/pii/S0140988319300052?via%3Dihub
