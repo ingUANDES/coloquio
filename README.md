@@ -61,7 +61,7 @@ url2cite: all-links
 
 - Junio: 
   - 3 (Basso):
-  [(diapositivas)]()
+  [(diapositivas)](docs/basso/Presentacion.pdf)
   Referencias:
   [[basso2018]](#basso2018)
   [[basso2020]](#basso2020)
