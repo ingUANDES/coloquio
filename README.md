@@ -61,6 +61,7 @@ url2cite: all-links
 
 - Junio: 
   - 3 (Basso):
+  [(video)](https://drive.google.com/file/d/1ec3-172GIVEPJASw8w6avjGaK94C8p6I/view?usp=sharing)
   [(diapositivas)](docs/basso/Presentacion.pdf)
   Referencias:
   [[basso2018]](#basso2018)
