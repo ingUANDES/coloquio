@@ -66,7 +66,8 @@ url2cite: all-links
   Referencias:
   [[basso2018]](#basso2018)
   [[basso2020]](#basso2020)
-  - 10 (Feijoo), 
+  - 10 (Feijoo):
+  [(video)](https://drive.google.com/file/d/11GQRStAFg3Uwm1g1trsvmft0y5xFmhRZ/view?usp=sharing)
   - 17, 
   - 24 (Gutiérrez)
 
