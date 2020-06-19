@@ -68,6 +68,7 @@ url2cite: all-links
   [[basso2020]](#basso2020)
   - 10 (Feijoo):
   [(video)](https://drive.google.com/file/d/11GQRStAFg3Uwm1g1trsvmft0y5xFmhRZ/view?usp=sharing)
+  [(diapositivas)](docs/feijoo/Feijoo_June2020.pdf)
   - 17, 
   - 24 (Gutiérrez)
 
