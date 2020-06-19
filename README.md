@@ -69,6 +69,7 @@ url2cite: all-links
   - 10 (Feijoo):
   [(video)](https://drive.google.com/file/d/11GQRStAFg3Uwm1g1trsvmft0y5xFmhRZ/view?usp=sharing)
   [(diapositivas)](docs/feijoo/Feijoo_June2020.pdf)
+  [(artículo)](docs/feijoo/AmigoCeaFeijoo2020.pdf)
   - 17, 
   - 24 (Gutiérrez)
 
