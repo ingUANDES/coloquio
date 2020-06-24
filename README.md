@@ -71,7 +71,8 @@ url2cite: all-links
   [(diapositivas)](docs/feijoo/Feijoo_June2020.pdf)
   [(artículo)](docs/feijoo/AmigoCeaFeijoo2020.pdf)
   - 17, 
-  - 24 (Gutiérrez)
+  - 24 (Gutiérrez):
+  [(diapositivas)](docs/gutierrez/Seminario_PUCV_V2.pdf)
 
 - Julio: 1 (de la Fuente), 8, 15 (Leiva)
 
