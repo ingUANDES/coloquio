@@ -75,7 +75,11 @@ url2cite: all-links
   [(diapositivas)](docs/gutierrez/Seminario_PUCV_V2.pdf)
   [(video)](https://drive.google.com/file/d/15bgaLDtIjhqz6y0Lr9HGTrgQGTbht7Gm/view?usp=sharing)
 
-- Julio: 1 (de la Fuente), 8, 15 (Leiva)
+- Julio: 
+  - 1 (de la Fuente):
+  [(diapositivas)](docs/delafuente/PresentaciónSeminarioDoctoradoEII(delaFuente,Hanns).pdf), 
+  - 8, 
+  - 15 (Leiva)
 
 ## Evaluación 
 
