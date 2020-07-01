@@ -77,7 +77,7 @@ url2cite: all-links
 
 - Julio: 
   - 1 (de la Fuente):
-  [(diapositivas)](docs/delafuente/PresentaciónSeminarioDoctoradoEII(delaFuente,Hanns).pdf), 
+  [(diapositivas)](docs/delafuente/presentacion1erojulio.pdf), 
   - 8, 
   - 15 (Leiva)
 
