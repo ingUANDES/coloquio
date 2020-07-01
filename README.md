@@ -77,7 +77,9 @@ url2cite: all-links
 
 - Julio: 
   - 1 (de la Fuente):
-  [(diapositivas)](docs/delafuente/presentacion1erojulio.pdf), 
+[(diapositivas)](docs/delafuente/presentacion1erojulio.pdf),
+[(video)](https://drive.google.com/file/d/1dRWXFH3k262EWnbY0ZQAbEUTS9mmh4b9/view?usp=sharing) 
+Referencias: [1](https://scielo.conicyt.cl/scielo.php?pid=S0718-33052016000200014&script=sci_arttext), [2](https://link.springer.com/chapter/10.1007/978-3-319-60372-8_23), [3](https://www.researchgate.net/profile/Hanns_De_La_Fuente-Mella/publication/287147379_Adopting_the_IFRS_and_its_impact_on_reducing_information_asymmetry_in_the_Chilean_capital_market/links/5e55a60ca6fdccbeba030344/Adopting-the-IFRS-and-its-impact-on-reducing-information-asymmetry-in-the-Chilean-capital-market.pdf), [4](https://www.sciencedirect.com/science/article/pii/S0123592314001181)
   - 8, 
   - 15 (Leiva)
 
