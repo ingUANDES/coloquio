@@ -23,7 +23,7 @@ $$\int_a\mathcal{E}d\mu$$
 
 
 
-## Special Issues
+## Literature managment
 
 - [Charitable Giving and Fundraising, Journal of Public Economics](https://www.sciencedirect.com/journal/journal-of-public-economics/vol/95/issue/5)
 - [An Enduring Platform for Public and Cooperative Economics Research, Annals of Public and Cooperative Economics (Non ISI)](https://onlinelibrary.wiley.com/toc/14678292/2018/89/1) 
@@ -52,10 +52,8 @@ plot(pressure)
 
 Note that the `echo = FALSE` parameter was added to the code chunk to prevent printing of the R code that generated the plot.
 
+
 ## Diagrams
-
-
-
 
 \tikzset{every picture/.style={line width=0.75pt}} 
 
@@ -240,6 +238,38 @@ Note that the `echo = FALSE` parameter was added to the code chunk to prevent pr
 \draw   (213.59, 146.71) circle [x radius= 5, y radius= 5]   ;
 \draw   (141.49, 105.58) circle [x radius= 5, y radius= 5]   ;
 \end{tikzpicture}
+
+# Análisis Literatura
+
+Inspirado en https://cran.r-project.org/web/packages/bibliometrix/vignettes/bibliometrix-vignette.html
+
+```{r message=FALSE, warning=FALSE, include=FALSE}
+library(bibliometrix)   
+file <- "savedrecs.bib"
+
+M <- convert2df(file = file, dbsource = "isi", format = "bibtex")
+
+results <- biblioAnalysis(M, sep = ";")
+```
+
+```{r message=FALSE, warning=FALSE}
+plot(x = results, k = 10, pause = FALSE)
+```
+
+
+```{r}
+topAU <- authorProdOverTime(M, k = 10, graph = TRUE)
+```
+
+
+```{r}
+NetMatrix <- biblioNetwork(M, analysis = "co-occurrences", network = "keywords", sep = ";")
+
+
+# Plot the network
+net=networkPlot(NetMatrix, n = dim(NetMatrix)[1], Title = "Keywords Co-Ocurrences", type = "circle", size=TRUE, remove.multiple=FALSE,labelsize=0.7,cluster="none")
+```
+
 
 # References
 

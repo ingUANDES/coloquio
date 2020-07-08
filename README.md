@@ -10,8 +10,10 @@ url2cite: all-links
 ## Competencias a adquirir
 
 - Juicio experto de un artículo científico
-  - Redacción en código LaTeX: gráficos TikZ, markdown, knitR, [pandoc](https://opensource.com/article/18/9/pandoc-research-paper)
-  - Investigación reproducible: [Research transparency](readings/Granger - Research Transparency.pdf) 
+  - Redacción en código LaTeX: gráficos TikZ, markdown, [knitR](https://swcarpentry.github.io/r-novice-gapminder-es/15-knitr-markdown/index.html), [pandoc](https://opensource.com/article/18/9/pandoc-research-paper)
+  - Investigación reproducible: 
+    - [Motivación](https://coderefinery.github.io/reproducible-research/01-motivation/)
+    - [Research transparency](readings/Granger - Research Transparency.pdf) 
   - Integración con Overleaf y/o RStudio
   - Juicio crítico/creativo/innovador/propositivo
     - Lecturas recomendadas: [Berk et alii - How to Write an Effective Referee Report and Improve the Scientific Review Process - J Econ Perspectives (2017)](https://www.aeaweb.org/articles?id=10.1257/jep.31.1.231)
