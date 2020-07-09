@@ -95,7 +95,9 @@ Seminario EII Doctorantes: Readme
         [2](https://link.springer.com/chapter/10.1007/978-3-319-60372-8_23),
         [3](https://www.researchgate.net/profile/Hanns_De_La_Fuente-Mella/publication/287147379_Adopting_the_IFRS_and_its_impact_on_reducing_information_asymmetry_in_the_Chilean_capital_market/links/5e55a60ca6fdccbeba030344/Adopting-the-IFRS-and-its-impact-on-reducing-information-asymmetry-in-the-Chilean-capital-market.pdf),
         [4](https://www.sciencedirect.com/science/article/pii/S0123592314001181)
-      - 8,
+      - 8, [Lineamientos evaluación
+        competencias](https://ei2.github.io/phdseminar/Competencias.html#1)
+        [(video)](https://www.google.com/url?q=https://drive.google.com/file/d/1V1Nuw92tPUyfsxOtSt0gUrVe8IOW9okd/view?usp%3Dsharing&sa=D&source=hangouts&ust=1594344543574000&usg=AFQjCNFIOA3prnZk-oTLWzmMzl85l5dd3g)
       - 15 (Leiva)
 
 ## Evaluación
