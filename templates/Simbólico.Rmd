@@ -1,0 +1,148 @@
+---
+title: "Symbolic Computation"
+author: "Cea"
+date: "8/7/2020"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+library(reticulate)
+# Use other python
+# use_python("/home/sebastian/.pyenv/shims/python")
+# Check python config
+# py_config()
+# Command line python
+# repl_python()
+# Verify conda environments
+# conda_list()
+# indicate that we want to use a specific condaenv
+# use_condaenv("r-reticulate")
+# Install package in default conda environment "r-reticulate"
+# py_install("pandas")
+# py_install("time")
+# py_install("matplotlib")
+# Unable to install the following
+# py_install("math")
+# py_install("sympy")
+# Install package in specific environment "environment-name"
+# virtualenv_install("environment-name", "scipy")
+# Problem: 
+# QStandardPaths: XDG_RUNTIME_DIR not set, defaulting to '/tmp/runtime-sebastian'
+# No protocol specified
+# qt.qpa.screen: QXcbConnection: Could not connect to display :0
+# Could not connect to any X display.
+# Solution found on https://community.rstudio.com/t/how-to-display-the-plot-in-the-python-chunk/22039/2
+matplotlib <- import("matplotlib")
+matplotlib$use("Agg", force = TRUE)
+
+```
+
+
+## Lo Esencial
+
+```{python}
+from sympy import *
+x, y = symbols('x y')
+expr = x + 2*y
+x*(expr + 1 - x) 
+# Expandimos la expresión anterior
+expand(x*(expr + 1 - x) )
+# Factorizamos una nueva expresión
+factor(x**2+2*x*y)
+```
+
+## Operaciones simbólica
+
+```{python}
+# This will make all further examples pretty print with unicode characters.
+init_printing(use_unicode=True)
+
+x, t, z, nu = symbols('x t z nu')
+```
+
+### Derivadas
+
+```{python}
+diff(sin(x)*exp(x), x)
+```
+
+### Integrales
+
+Vamos a integrar \(e^x\cdot\sin (x)+e^x\cdot\cos(x)\)
+
+
+```{python}
+expr=integrate(exp(x)*sin(x) + exp(x)*cos(x), x)
+latex(expr)
+```
+Falta usar expresión en latex fuera del bloque de código
+
+
+```{python}
+integrate(sin(x**2), (x, -oo, oo))
+```
+
+### Límites
+
+```{python}
+limit(sin(x)/x, x, 0)
+```
+
+### Resuelve sistemas
+
+```{python}
+solve(x**2 - 2, x)
+```
+
+### Resuelve ecuación diferencial
+
+```{python}
+y = Function('y')
+dsolve(Eq(y(t).diff(t, t) - y(t), exp(t)), y(t))
+```
+
+## Matrices
+
+https://docs.sympy.org/latest/tutorial/matrices.html
+
+### Valores propios matriz
+
+```{python}
+M = Matrix([[3, -2,  4, -2], [5,  3, -3, -2], [5, -2,  2, -2], [5, -2, -3,  3]])
+M.eigenvals()
+```
+### Vectores propios
+
+```{python}
+M.eigenvects()
+```
+
+### Polinomio característico
+
+```{python}
+lamda = symbols('lamda')
+p = M.charpoly(lamda)
+factor(p.as_expr())
+```
+
+### Nullspace
+
+```{python}
+M = Matrix([[1-x, 2, 3, 0, 0], [4, 10, 0, 0, 1]])
+M
+M.nullspace()
+# Primera coordenada
+M.nullspace()[0]
+# M*M.nullspace()[1]
+# M*M.nullspace()[2]
+```
+
+Verificamos que la tercera coordenada genera el vector cero
+
+```{r}
+expr=M*M.nullspace()[0]
+expr
+expr.subs(x,-1)
+```
+
