@@ -9,6 +9,9 @@ Seminario EII Doctorantes: Readme
         [pandoc](https://opensource.com/article/18/9/pandoc-research-paper)
       - Investigación reproducible:
           - [Motivación](https://coderefinery.github.io/reproducible-research/01-motivation/)
+          - [Maniadis and Tufano - The Research Reproducibility Crisis
+            and Economics of Science
+            (2017)](https://onlinelibrary.wiley.com/doi/full/10.1111/ecoj.12526)
           - [Research
             transparency](readings/Granger%20-%20Research%20Transparency.pdf)
       - Integración con Overleaf y/o RStudio
