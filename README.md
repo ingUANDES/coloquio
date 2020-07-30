@@ -1,48 +1,32 @@
 Seminario EII Doctorantes: Readme
 ================
 
-## Competencias a adquirir
-
-  - Juicio experto de un artículo científico
-      - Redacción en código LaTeX: gráficos TikZ, markdown,
-        [knitR](https://swcarpentry.github.io/r-novice-gapminder-es/15-knitr-markdown/index.html),
-        [pandoc](https://opensource.com/article/18/9/pandoc-research-paper)
-      - Investigación reproducible:
-          - [Motivación](https://coderefinery.github.io/reproducible-research/01-motivation/)
-          - [Maniadis and Tufano - The Research Reproducibility Crisis
-            and Economics of Science
-            (2017)](https://onlinelibrary.wiley.com/doi/full/10.1111/ecoj.12526)
-          - [Research
-            transparency](readings/Granger%20-%20Research%20Transparency.pdf)
-      - Integración con Overleaf y/o RStudio
-      - Juicio crítico/creativo/innovador/propositivo
-          - Lecturas recomendadas: [Berk et alii - How to Write an
-            Effective Referee Report and Improve the Scientific Review
-            Process - J Econ Perspectives
-            (2017)](https://www.aeaweb.org/articles?id=10.1257/jep.31.1.231)
-          - Tip: Usualmente se pide un juicio del tipo acepto/rechazo,
-            en los informes de charlas cultivaremos un estilo
-            propositivo y omitiremos ese tipo de juicios ([acá algunas
-            preguntas que se pueden hacer para juzgar la contribución en
-            análisis](https://are.berkeley.edu/courses/ARE251/2004/assignments/RRGuidelines.pdf))
-  - [Control de
-    versiones](https://audhalbritter.com/wp-content/uploads/2016/12/Github-%E2%80%93-R-studio-Cheat-Sheet.pdf)
-    [(respaldo archivo en link)](GitHubRstudioConfig.pdf)
-      - git: [flujo
-        básico](https://julia.quantecon.org/more_julia/version_control.html)
-        y branching
-      - Flujo Kanban
-      - Integración con GitHub y RStudio
-  - Gestión referencias
-      - Evaluación impacto científico referencias (IF y AI Clarivate
-        Analytics)
-      - Sistematización a través de Zotero: integración con Chrome y
-        RStudio [(citR)](https://github.com/crsh/citr)
-      - Formateo automático de citas con formato
-        [csl](https://citationstyles.org/)
-      - Análisis bibliométrico <https://www.bibliometrix.org/>
-
 ## Calendarización: Miércoles
+
+### Segundo Semestre 2020
+
+| Fecha        | Presentador | Título | Referencias | Diapositivas | Video |
+| :----------- | :---------- | :----- | :---------- | :----------- | :---- |
+| 12 Agosto    |             |        |             |              |       |
+| 19           |             |        |             |              |       |
+| 26           |             |        |             |              |       |
+| 2 Septiembre |             |        |             |              |       |
+| 9            |             |        |             |              |       |
+| 16           |             |        |             |              |       |
+| 23           |             |        |             |              |       |
+| 30           |             |        |             |              |       |
+| 7 Octubre    |             |        |             |              |       |
+| 14           |             |        |             |              |       |
+| 21           |             |        |             |              |       |
+| 28           |             |        |             |              |       |
+| 4 Noviembre  |             |        |             |              |       |
+| 11           |             |        |             |              |       |
+| 18           |             |        |             |              |       |
+| 25           |             |        |             |              |       |
+| 2 Diciembre  |             |        |             |              |       |
+| 9            |             |        |             |              |       |
+
+### Primer Semestre 2020
 
   - Abril:
       - 8: Revisión avances y dudas
@@ -123,6 +107,47 @@ grading*](https://www.cs.cornell.edu/people/tj/publications/raman_joachims_14a.p
 con mecanismo a definir democráticamente entre algún *strategy-proof*
 mencionado [aqui.](https://arxiv.org/pdf/1604.03632.pdf) o
 [acá](https://arxiv.org/abs/1807.11657).
+
+## Competencias a adquirir
+
+  - Juicio experto de un artículo científico
+      - Redacción en código LaTeX: gráficos TikZ, markdown,
+        [knitR](https://swcarpentry.github.io/r-novice-gapminder-es/15-knitr-markdown/index.html),
+        [pandoc](https://opensource.com/article/18/9/pandoc-research-paper)
+      - Investigación reproducible:
+          - [Motivación](https://coderefinery.github.io/reproducible-research/01-motivation/)
+          - [Maniadis and Tufano - The Research Reproducibility Crisis
+            and Economics of Science
+            (2017)](https://onlinelibrary.wiley.com/doi/full/10.1111/ecoj.12526)
+          - [Research
+            transparency](readings/Granger%20-%20Research%20Transparency.pdf)
+      - Integración con Overleaf y/o RStudio
+      - Juicio crítico/creativo/innovador/propositivo
+          - Lecturas recomendadas: [Berk et alii - How to Write an
+            Effective Referee Report and Improve the Scientific Review
+            Process - J Econ Perspectives
+            (2017)](https://www.aeaweb.org/articles?id=10.1257/jep.31.1.231)
+          - Tip: Usualmente se pide un juicio del tipo acepto/rechazo,
+            en los informes de charlas cultivaremos un estilo
+            propositivo y omitiremos ese tipo de juicios ([acá algunas
+            preguntas que se pueden hacer para juzgar la contribución en
+            análisis](https://are.berkeley.edu/courses/ARE251/2004/assignments/RRGuidelines.pdf))
+  - [Control de
+    versiones](https://audhalbritter.com/wp-content/uploads/2016/12/Github-%E2%80%93-R-studio-Cheat-Sheet.pdf)
+    [(respaldo archivo en link)](GitHubRstudioConfig.pdf)
+      - git: [flujo
+        básico](https://julia.quantecon.org/more_julia/version_control.html)
+        y branching
+      - Flujo Kanban
+      - Integración con GitHub y RStudio
+  - Gestión referencias
+      - Evaluación impacto científico referencias (IF y AI Clarivate
+        Analytics)
+      - Sistematización a través de Zotero: integración con Chrome y
+        RStudio [(citR)](https://github.com/crsh/citr)
+      - Formateo automático de citas con formato
+        [csl](https://citationstyles.org/)
+      - Análisis bibliométrico <https://www.bibliometrix.org/>
 
 ## Documentos tipo
 
