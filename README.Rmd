@@ -13,26 +13,26 @@ knitr::opts_chunk$set(echo = TRUE)
 
 ### Segundo Semestre 2020
 
-| Fecha        | Presentador | Título | Referencias | Diapositivas | Video |
-| :----------- | :---------- | :----- | :---------- | :----------- | :---- |
-| 12 Agosto    |             |        |             |              |       |
-| 19           |             |        |             |              |       |
-| 26           |             |        |             |              |       |
-| 2 Septiembre |             |        |             |              |       |
-| 9            |             |        |             |              |       |
-| 16           |             |        |             |              |       |
-| 23           |             |        |             |              |       |
-| 30           |             |        |             |              |       |
-| 7 Octubre    |             |        |             |              |       |
-| 14           |             |        |             |              |       |
-| 21           |             |        |             |              |       |
-| 28           |             |        |             |              |       |
-| 4 Noviembre  |             |        |             |              |       |
-| 11           |             |        |             |              |       |
-| 18           |             |        |             |              |       |
-| 25           |             |        |             |              |       |
-| 2 Diciembre  |             |        |             |              |       |
-| 9            |             |        |             |              |       |
+| Fecha        | Presentador                      | Título | Referencias | Diapositivas | Video |
+| :----------- | :------------------------------- | :----- | :---------- | :----------- | :---- |
+| 12 Agosto    |                                  |        |             |              |       |
+| 19           | Juan Pablo Torres-Martínez (UCh) |        |             |              |       |
+| 26           | Guillermo Cabrera (Inf-PUCV)     |        |             |              |       |
+| 2 Septiembre |                                  |        |             |              |       |
+| 9            | Carlos Obreque (UBioBio)         |        |             |              |       |
+| 16           | Francisco Tapia (EII-PUCV)       |        |             |              |       |
+| 23           |                                  |        |             |              |       |
+| 30           |                                  |        |             |              |       |
+| 7 Octubre    |                                  |        |             |              |       |
+| 14           |                                  |        |             |              |       |
+| 21           |                                  |        |             |              |       |
+| 28           |                                  |        |             |              |       |
+| 4 Noviembre  | Armin Luer (UNAB)                |        |             |              |       |
+| 11           | Carola Blazquez (UNAB)           |        |             |              |       |
+| 18           |                                  |        |             |              |       |
+| 25           |                                  |        |             |              |       |
+| 2 Diciembre  | Diego Martínez (JHU)             |        |             |              |       |
+| 9            |                                  |        |             |              |       |
 
 ### Primer Semestre 2020
 
