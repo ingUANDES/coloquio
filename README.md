@@ -15,7 +15,7 @@ Seminario EII Doctorantes: Readme
 | 16           | Francisco Tapia (EII-PUCV)       |        |             |              |       |
 | 23           |                                  |        |             |              |       |
 | 30           |                                  |        |             |              |       |
-| 7 Octubre    |                                  |        |             |              |       |
+| 7 Octubre    | Leslie Pérez (Inf-PUCV)          |        |             |              |       |
 | 14           |                                  |        |             |              |       |
 | 21           |                                  |        |             |              |       |
 | 28           |                                  |        |             |              |       |
