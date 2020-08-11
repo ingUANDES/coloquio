@@ -26,6 +26,9 @@ Seminario EII Doctorantes: Readme
 | 2020-12-02 | Diego Martínez (JHU)               | Implementing Safe and Reliable ML: Key areas of development                                                                                              | Martinez et alii (2020a); Martínez et alii (2020b)                                                                                                             |                         |       |
 | 2020-12-09 |                                    |                                                                                                                                                          |                                                                                                                                                                |                         |       |
 
+Links a las referencias en el calendario disponibles
+[aquí.](https://docs.google.com/spreadsheets/d/1nSOn2VdgeXzCLzqdh8On85d7FbcRLbMJ8geoJJdtoKQ/edit#gid=0)
+
 ### Primer Semestre 2020
 
   - Abril:

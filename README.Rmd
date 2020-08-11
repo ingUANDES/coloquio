@@ -37,7 +37,7 @@ library(DT)
 library(knitr)
 kable(calendar)
 ```
-
+Links a las referencias en el calendario disponibles [aquí.](https://docs.google.com/spreadsheets/d/1nSOn2VdgeXzCLzqdh8On85d7FbcRLbMJ8geoJJdtoKQ/edit#gid=0)
 
 ### Primer Semestre 2020
 
