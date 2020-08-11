@@ -14,25 +14,28 @@ knitr::opts_chunk$set(echo = TRUE)
 ### Segundo Semestre 2020
 
 ```{r echo=FALSE, message=FALSE, warning=FALSE}
+options(knitr.kable.NA = '')
 library(googlesheets4)
 gs4_deauth()
 calendar <- read_sheet("https://docs.google.com/spreadsheets/d/1nSOn2VdgeXzCLzqdh8On85d7FbcRLbMJ8geoJJdtoKQ/edit?usp=sharing")
 library(DT)
-datatable(calendar, options = list(
-  columnDefs = list(list(className = 'dt-center', targets = 5)),
-  pageLength = 18,
-  paging = FALSE
-)) %>% formatDate(
-    columns = 1, 
-    method =  "toLocaleDateString", 
-    params = list(
-      'es-CL', 
-      list(
-        year = 'numeric', 
-        month = 'numeric',
-        day = 'numeric')
-      )
-    )
+# datatable(calendar, options = list(
+#   columnDefs = list(list(className = 'dt-center', targets = 5)),
+#   pageLength = 18,
+#   paging = FALSE
+# )) %>% formatDate(
+#     columns = 1, 
+#     method =  "toLocaleDateString", 
+#     params = list(
+#       'es-CL', 
+#       list(
+#         year = 'numeric', 
+#         month = 'numeric',
+#         day = 'numeric')
+#       )
+#     )
+library(knitr)
+kable(calendar)
 ```
 
 
