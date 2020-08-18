@@ -90,7 +90,7 @@ Links a las referencias en el calendario disponibles
         [(video)](https://www.google.com/url?q=https://drive.google.com/file/d/1V1Nuw92tPUyfsxOtSt0gUrVe8IOW9okd/view?usp%3Dsharing&sa=D&source=hangouts&ust=1594344543574000&usg=AFQjCNFIOA3prnZk-oTLWzmMzl85l5dd3g)
       - 15 (Leiva)
 
-## Evaluación
+## Evaluación Seminario 1
 
   - Informes *tipo referee* de presentaciones (50%) (template formatos
     [Rmd](templates/Informe.Rmd), [\(\LaTeX\)](templates/Informe.tex))
@@ -111,7 +111,7 @@ con mecanismo a definir democráticamente entre algún *strategy-proof*
 mencionado [aqui.](https://arxiv.org/pdf/1604.03632.pdf) o
 [acá](https://arxiv.org/abs/1807.11657).
 
-## Competencias a adquirir
+## Competencias a adquirir Seminario 1
 
   - Juicio experto de un artículo científico
       - Redacción en código LaTeX: gráficos TikZ, markdown,
@@ -151,6 +151,30 @@ mencionado [aqui.](https://arxiv.org/pdf/1604.03632.pdf) o
       - Formateo automático de citas con formato
         [csl](https://citationstyles.org/)
       - Análisis bibliométrico <https://www.bibliometrix.org/>
+
+## Evaluación Seminario 2
+
+El marco evaluativo está centrado en una revisión de literatura en vías
+de ayudarlos a preparar su examen de candidatura. De esta forma, el
+documento que deben entregar (les propongo además que hagamos una
+presentación final oral donde muestren un resumen del proyecto) debe ser
+equivalente a unproyecto FONDECYT:
+
+  - Resumen: 1 página
+  - Motivación: 1 página con el contexto que motiva el trabajo y su
+    relevancia
+  - Hipótesis: 2 páginas describiendo los supuestos del trabajo y las
+    hipótesis que se quieren falsear
+  - Objetivos: 2 páginas describiendo el objetivo general y los
+    objetivos específicos
+  - Metodología: 10 páginas aprox.
+  - Revisión de literatura: mínimo 5 páginas
+  - Descripción de la metodología: 5 páginas
+  - Plan de trabajo: Planificación y descripción de tareas a efectuar a
+    través de 8 semestres en conjunto con una carta gantt 1-2 páginas
+  - Recursos requeridos: Descripción de los recursos necesarios para
+    llevar a cabo el trabajo 1-2 páginas
+  - Bibliografía: Listado de referencias utilizadas.
 
 ## Documentos tipo
 
