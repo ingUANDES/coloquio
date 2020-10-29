@@ -120,10 +120,10 @@ La evaluación de los informes será [entre pares o _peer grading_](https://www.
     - Lecturas recomendadas: [Berk et alii - How to Write an Effective Referee Report and Improve the Scientific Review Process - J Econ Perspectives (2017)](https://www.aeaweb.org/articles?id=10.1257/jep.31.1.231)
     - Tip: Usualmente se pide un juicio del tipo acepto/rechazo, en los informes de charlas cultivaremos un estilo propositivo y omitiremos ese tipo de juicios ([acá algunas preguntas que se pueden hacer para juzgar la contribución en análisis](https://are.berkeley.edu/courses/ARE251/2004/assignments/RRGuidelines.pdf))
 - [Control de versiones](https://audhalbritter.com/wp-content/uploads/2016/12/Github-%E2%80%93-R-studio-Cheat-Sheet.pdf) [(respaldo archivo en link)](GitHubRstudioConfig.pdf)
-  - git: [flujo básico](https://julia.quantecon.org/more_julia/version_control.html) y branching
+  - git: [quick introduction](https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1004668), [flujo básico](https://julia.quantecon.org/more_julia/version_control.html) y branching
   - Flujo Kanban
   - Integración con GitHub y RStudio
-- Gestión referencias
+- Gestión referencias [(tutorial)](https://juancarloscastillo.github.io/jc-castillo/citando-plano.html)
   - Evaluación impacto científico referencias (IF y AI Clarivate Analytics)
   - Sistematización a través de Zotero: integración con Chrome y RStudio [(citR)](https://github.com/crsh/citr)
   - Formateo automático de citas con formato [csl](https://citationstyles.org/)
