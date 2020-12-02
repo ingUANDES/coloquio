@@ -5,17 +5,10 @@ Seminario EII Doctorantes: Readme
 
 ### Segundo Semestre 2020
 
-| Fecha      | Presentador               | Título                                                                                                                                                | Video | Abstract o Diapositivas | Referencias                                        |
-| :--------- | :------------------------ | :---------------------------------------------------------------------------------------------------------------------------------------------------- | :---- | :---------------------- | :------------------------------------------------- |
-| 2020-08-12 | Coordinación              |                                                                                                                                                       | link  |                         |                                                    |
-| 2020-10-21 | Fernando Rojas (UValpo)   | Relationship between cost savings achieved through inventory policies in pharmacies and food and nutrition services, and supply chain success factors |       | (link)                  |                                                    |
-| 2020-10-28 | Álvaro Lorca (PUC-Chile)  | Optimización y Modelación Estocástica en Problemas de Planificación Energética                                                                        |       | (link)                  |                                                    |
-| 2020-11-04 | Armin Luer (UNAB)         |                                                                                                                                                       |       |                         |                                                    |
-| 2020-11-11 | Carola Blazquez (UNAB)    |                                                                                                                                                       |       |                         |                                                    |
-| 2020-11-18 | Sofía Correa (NYU)        | Persistent Protests                                                                                                                                   |       |                         |                                                    |
-| 2020-11-25 | Víctor Leiva (EII-PUCV)   |                                                                                                                                                       |       |                         |                                                    |
-| 2020-12-02 | Diego Martínez (JHU)      | Implementing Safe and Reliable ML: Key areas of development                                                                                           |       |                         | Martinez et alii (2020a); Martínez et alii (2020b) |
-| 2020-12-09 | Leonardo Epstein (UAndes) |                                                                                                                                                       |       |                         |                                                    |
+| Fecha      | Presentador               | Título                                                                       | Video | Abstract o Diapositivas | Referencias |
+| :--------- | :------------------------ | :--------------------------------------------------------------------------- | :---- | :---------------------- | :---------- |
+|            |                           |                                                                              |       |                         |             |
+| 2020-12-09 | Leonardo Epstein (UAndes) | The Optimal Number of Rental Items to Own and to Borrow: A Bayesian Approach |       | link                    |             |
 
 Links a las referencias en el calendario disponibles
 [aquí.](https://docs.google.com/spreadsheets/d/1nSOn2VdgeXzCLzqdh8On85d7FbcRLbMJ8geoJJdtoKQ/edit#gid=0)
@@ -129,12 +122,15 @@ mencionado [aqui.](https://arxiv.org/pdf/1604.03632.pdf) o
   - [Control de
     versiones](https://audhalbritter.com/wp-content/uploads/2016/12/Github-%E2%80%93-R-studio-Cheat-Sheet.pdf)
     [(respaldo archivo en link)](GitHubRstudioConfig.pdf)
-      - git: [flujo
+      - git: [quick
+        introduction](https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1004668),
+        [flujo
         básico](https://julia.quantecon.org/more_julia/version_control.html)
         y branching
       - Flujo Kanban
       - Integración con GitHub y RStudio
   - Gestión referencias
+    [(tutorial)](https://juancarloscastillo.github.io/jc-castillo/citando-plano.html)
       - Evaluación impacto científico referencias (IF y AI Clarivate
         Analytics)
       - Sistematización a través de Zotero: integración con Chrome y
@@ -159,8 +155,8 @@ equivalente a unproyecto FONDECYT:
   - Objetivos: 2 páginas describiendo el objetivo general y los
     objetivos específicos
   - Metodología: 10 páginas aprox.
-  - Revisión de literatura: mínimo 5 páginas
-  - Descripción de la metodología: 5 páginas
+      - Revisión de literatura: mínimo 5 páginas
+      - Descripción de la metodología: 5 páginas
   - Plan de trabajo: Planificación y descripción de tareas a efectuar a
     través de 8 semestres en conjunto con una carta gantt 1-2 páginas
   - Recursos requeridos: Descripción de los recursos necesarios para

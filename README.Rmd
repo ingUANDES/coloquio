@@ -138,8 +138,8 @@ El marco evaluativo está centrado en una revisión de literatura en vías de ay
 - Hipótesis: 2 páginas describiendo los supuestos del trabajo y las hipótesis que se quieren falsear
 - Objetivos: 2 páginas describiendo el objetivo general y los objetivos específicos
 - Metodología: 10 páginas aprox. 
-- Revisión de literatura: mínimo 5 páginas
-- Descripción de la metodología: 5 páginas
+  - Revisión de literatura: mínimo 5 páginas
+  - Descripción de la metodología: 5 páginas
 - Plan de trabajo: Planificación y descripción de tareas a efectuar a través de 8 semestres en conjunto con una carta gantt 1-2 páginas
 - Recursos requeridos: Descripción de los recursos necesarios para llevar a cabo el trabajo 1-2 páginas
 - Bibliografía: Listado de referencias utilizadas.
