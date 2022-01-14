@@ -1,0 +1,24 @@
+---
+title: "Coloquio"
+author: "IngUAndes"
+date: "Enero 2020 versión `r Sys.Date()`"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+El coloquio 2022 se llevará a cabo los días Viernes según la calendarización más abajo entre las 10:30 y 12 horas en la sala XXX.
+
+## Calendario
+
+<iframe style="width: 100%; height: 600px; border: none;" src="https://docs.google.com/spreadsheets/d/e/2PACX-1vQxLuNTt5Gc0-X-tDFeHx7F4pyk0XvaqQms8LKhNO166aPNdGy121g6WzTEWx1kwMYqZFBHrTS_3zs9/pubhtml?gid=0&amp;single=true&amp;widget=true&amp;headers=false&amp;range=C1:I44" width="640" height="480"></iframe>
+
+Si tiene privilegios de edición la tabla la puede modificar [aquí](https://docs.google.com/spreadsheets/d/1xaXzWHzmCZqnTsHKeT0qhxaYFKL4I5B6mEdxOUst1cE/edit?usp=sharing)
+
+
+
+
+<!-- <iframe src="https://docs.google.com/spreadsheets/d/e/2PACX-1vQxLuNTt5Gc0-X-tDFeHx7F4pyk0XvaqQms8LKhNO166aPNdGy121g6WzTEWx1kwMYqZFBHrTS_3zs9/pubhtml?gid=0&amp;single=true&amp;widget=true&amp;headers=false"></iframe> -->
+
