@@ -1,7 +1,0 @@
-This proposal considers determining the relationships between inventory cost savings stratified by product categories: groceries, dairy, fruits, vegetables, meats and drugs that make up the mix of food and nutrition services and pharmacies, and the determinants of the success of their supply chains.
-
-The determination of the savings in total inventory costs was obtained through the use of stochastic inventory models, comparing the results of optimal costs of supply with respect to real costs in both types of organizations. Success factors (SF) of the supply chain raised in the research they correspond to: a) SF1: the purchase of products and raw materials agreed between the technical personnel-purchasing management, b) SF2: a successful association of purchases grouped in the organization and c) SF3: the existence of management technology of synchronized supply data integrated with the purchasing system, which correspond to scores weighted by item response theory. 
-
-The stochastic inventory model used in this work corresponds to the size of the purchase lot, under random, time-dependent and intermittent demands, and which seeks to minimize the cost of orders, purchase, holding and shortages.
-
-To relate the savings in inventory costs obtained by the use of the stochastic inventory model and its determinants of success in the supply chain at the level of institutions and product categories studied, multilevel regression with internal instrumental variables was used to break the endogeneity bias between relationships.
