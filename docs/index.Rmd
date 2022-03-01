@@ -9,7 +9,14 @@ output: html_document
 knitr::opts_chunk$set(echo = TRUE)
 ```
 
-El coloquio 2022 se llevará a cabo los días Viernes según la calendarización más abajo entre las 10:30 y 12 horas en la sala XXX.
+El coloquio 2022 se llevará a cabo los días Viernes según la calendarización más abajo entre las 11 y 12 horas en la sala XXX.
+
+La distribución del coloquio busca generar un espacio de exposición por parte del presentador durante 30 minutos y una discusión en torno a preguntas de la audiencia de otros 30 minutos
+
+ - Exposición (30 minutos): 
+   - Contexto (15 minutos), 
+   - Resultados o Preguntas abiertas (15 minutos)
+ - Discusión (30 minutos) + Café
 
 ## Calendario
 
