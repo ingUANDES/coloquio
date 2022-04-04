@@ -1,0 +1,14 @@
+Selenium is a very important trace element from an ecotoxicological point of view due to the small
+difference between its essential and toxic levels. Although Se is an essential element for animals
+including humans, ingestion of an excess amount can produce adverse effect. Furthermore, among
+different radionuclides, 79 Se is of environmental concern for safety assessment of nuclear waste
+repositories because of its presence in high level long-lived nuclear wastes. Moreover, the toxic dose
+of selenium is highly dependent on its chemical form, and therefore, the speciation becomes
+necessary. Selenium can be found as inorganic compounds showing different oxidation state: -II, 0,
+IV and VI, and also incorporated to aminoacids. While selenite(IV) and selenate(VI) are the most toxic
+compounds, the seleno aminoacids are considered as more bioavailable. The result of selenium
+detoxification pathway is the volatile alkyl selenides.
+Our lab is interested since the 1990’s in selenium environmental chemistry, particularly in aquatic
+systems where the low levels of selenium (often below 1 ppb) require low analytical detection limits.
+Here different analytical strategies applied to several field or laboratory biogeochemical studies are
+synthesized and discussed.

@@ -1,0 +1,7 @@
+Biogas, derived from anaerobic digestion of organic matter, is a source of renewable energy with
+high energy and environmental potential. It is a complex mixture that contains different types of
+trace compounds, in varying amounts depending on the substrates, which can damage the storage
+and upgrading units (corrosion phenomena, toxic emissions).
+The main objectives of BIOCAD are to study and demonstrate the use of digestate obtained from
+anaerobic digestion of biomass to produce biochar-derived carbon (by pyrolysis) and to be used as a
+value-added product for adsorption with application to biogas treatment.
