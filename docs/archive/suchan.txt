@@ -1,0 +1,6 @@
+Una de las claves para el diseño de un sistema de distribución resiliente está en la consistencia. Un repartidor que atiende a un grupo de clientes o un territorio fijo puede ejecutar mejor las rutas asignadas en condiciones normales. También está mejor preparado para responder a contingencias, partiendo por la mayor facilidad de acordar con clientes soluciones ad-hoc a problemas inesperados.
+En este coloquio se presentará dos modelos orientados a problemas de ruteo de vehículos multiperiodo con consistencia en la persona del repartidor que atiende a cada cliente: Consistent Vehicle Routing Problem with Time Windows [1] y Territory Design for the Multi-Period Vehicle Routing Problem with Time Windows [2].
+
+Referencias:
+[1] H. Lespay, K. Suchan: A case study of consistent vehicle routing problem with time windows. Int. Trans. Oper. Res. 28(3): 1135-1163 (2021), https://doi.org/10.1111/itor.12885
+[2] H. Lespay, K. Suchan: Territory Design for the Multi-Period Vehicle Routing Problem with Time Windows. Comput. Oper. Res. 145: 105866 (2022), https://doi.org/10.1016/j.cor.2022.105866
