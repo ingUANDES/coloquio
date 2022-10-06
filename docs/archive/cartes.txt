@@ -1,0 +1,10 @@
+Una enorme ola de desórden generalizado estalló el 18 de Octubre del 2019 en Santiago.
+Los disturbios se propagaron rápidamente al resto del país, con una duración de varios días y en
+algunos puntos específicos, con actividad intermitente por varios meses. El costo aproximado, solo
+durante el primer mes de los disturbios, fué del 1.1% del PIB del país.
+
+En esta presentación se analizará la distribución espacial y evolucion temporal de los disturbios, para
+la ciudad de Santiago. También se mostrarán las herramientas numéricas existentes, que permiten
+modelar los desórdenes y anticipar diferentes escenarios. Finalmente se mostrarán algunas técnicas
+que se encuentran en desarrollo, las cuales no solo ayudarán a simular en detalle los disturbios. Sino
+que además permitirán diseñar nuevas y más eficientes estrategias, para el despliegue de las fuerzas del orden.
