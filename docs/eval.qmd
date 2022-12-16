@@ -1,0 +1,79 @@
+---
+title: "Coloquios 2022-2023"
+author: "FICA"
+format: revealjs
+editor: visual
+---
+
+## Propuesta 2022
+
+:::: {.columns}
+
+::: {.column width="50%"}
+
+
+Formato
+
+ - Exposición (30 minutos): 
+   - Contexto (15 minutos), 
+   - Resultados o Preguntas abiertas (15 minutos)
+ - Discusión (30 minutos) + Café
+
+
+:::
+
+::: {.column width="10%"}
+<!-- empty column to create gap -->
+:::
+
+::: {.column width="40%"}
+<!-- ![](eval_files/img/abierta2022.png) -->
+
+```{r, out.width="1000px"}
+knitr::include_graphics("eval_files/img/abierta2022.png")
+```
+
+
+:::
+
+::::
+
+## Encuesta previa
+
+:::: {.columns}
+
+::: {.column width="60%"}
+
+
+```{r, out.width="100%"}
+knitr::include_graphics("eval_files/img/ambitos2022.png")
+```
+:::
+
+::: {.column width="2%"}
+<!-- empty column to create gap -->
+:::
+
+::: {.column width="38%"}
+<!-- ![](eval_files/img/abierta2022.png) -->
+
+```{r, out.width="100%"}
+knitr::include_graphics("eval_files/img/encuesta2022.png")
+```
+
+
+:::
+
+::::
+
+## Representación
+
+```{r, out.width="1000px"}
+knitr::include_graphics("eval_files/img/balanceo2022.png")
+```
+
+## Discusión
+
+- Incluir temas de docencia
+- Agregar nueva pregunta a la encuesta
+- Otros
