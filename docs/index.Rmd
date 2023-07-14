@@ -13,27 +13,21 @@ El coloquio 2023 se llevará a cabo los días Viernes según la calendarización
 
 La distribución del coloquio busca generar un espacio de exposición por parte del presentador durante 30 minutos y una discusión en torno a preguntas de la audiencia de otros 30 minutos
 
- - Exposición (30 minutos): 
-   - Contexto (15 minutos), 
-   - Resultados o Preguntas abiertas (15 minutos)
- - Discusión (30 minutos) + Café
+-   Exposición (30 minutos):
+    -   Contexto (15 minutos),
+    -   Resultados o Preguntas abiertas (15 minutos)
+-   Discusión (30 minutos) + Café
 
 Es decir, se propone una exposición de 15 minutos de "nivelación" para que gente del área o ajena a ella pueda entender los siguientes 15 minutos. El segundo bloque de 15 minutos puede tener resultados de investigación (en colaboración o no) y, también, la presentación preguntas que la discusión del coloquio pueda ayudar a encaminar e, incluso, crear una colaboración.
 
 ## Calendario
 
-```{r echo=FALSE, out.width="640"}
+```{r echo=FALSE, out.width="100%"}
 knitr::include_url("https://docs.google.com/spreadsheets/d/e/2PACX-1vQxLuNTt5Gc0-X-tDFeHx7F4pyk0XvaqQms8LKhNO166aPNdGy121g6WzTEWx1kwMYqZFBHrTS_3zs9/pubhtml?gid=0&amp;single=true&amp;widget=true&amp;headers=false&amp;range=C1:I44")
 ```
-
-
 
 <!-- <iframe style="width: 100%; height: 600px; border: none;" src="https://docs.google.com/spreadsheets/d/e/2PACX-1vQxLuNTt5Gc0-X-tDFeHx7F4pyk0XvaqQms8LKhNO166aPNdGy121g6WzTEWx1kwMYqZFBHrTS_3zs9/pubhtml?gid=0&amp;single=true&amp;widget=true&amp;headers=false&amp;range=C1:I44" width="640" height="480"></iframe> -->
 
 Si tiene privilegios de edición la tabla la puede modificar [aquí](https://docs.google.com/spreadsheets/d/1xaXzWHzmCZqnTsHKeT0qhxaYFKL4I5B6mEdxOUst1cE/edit?usp=sharing)
 
-
-
-
 <!-- <iframe src="https://docs.google.com/spreadsheets/d/e/2PACX-1vQxLuNTt5Gc0-X-tDFeHx7F4pyk0XvaqQms8LKhNO166aPNdGy121g6WzTEWx1kwMYqZFBHrTS_3zs9/pubhtml?gid=0&amp;single=true&amp;widget=true&amp;headers=false"></iframe> -->
-
