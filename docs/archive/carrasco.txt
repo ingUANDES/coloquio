@@ -1,0 +1,11 @@
+En esta charla expondremos diversas alternativas para  lidiar con un problema  de clasificación de imágenes médicas de cáncer de próstata.
+Definiremos los diversos desafíos que se deben enfrentar para obtener un producto de apoyo a la toma de decisiones, desde la concepción de la herramienta hasta la elaboración de un prototipo.
+
+En particular: 
+Entregaremos antecedentes de la enfermedad.
+Indicaremos por qué una herramienta automática de detección de cáncer puede ser útil en este contexto.
+Revisaremos los modelos computacionales en la literatura utilizados para este propósito, principalmente modelos de Deep Learning de redes neuronales convolucionales.
+
+Expondremos un caso de estudio en curso y los objetivos futuros que se pretenden alcanzar.
+
+Parcialmente financiado por  FONDECYT 1201403 y FONDEF ID23I10198
