@@ -9,7 +9,7 @@ output: html_document
 knitr::opts_chunk$set(echo = TRUE)
 ```
 
-El coloquio 2024 se llevará a cabo los días Viernes según la calendarización más abajo entre las 11.30 y 12.30 horas en salas que informaremos a través del [Grupo de Google del Coloquio](https://groups.google.com/a/miuandes.cl/g/coloquioing?hl=es).
+El coloquio 2024 se llevará a cabo los días Viernes según la calendarización más abajo entre las 11.30 y 12.30 horas en la sala I-010 (más información a través del [Grupo de Google del Coloquio](#0)).
 
 La distribución del coloquio busca generar un espacio de exposición por parte del presentador durante 30 minutos y una discusión en torno a preguntas de la audiencia de otros 30 minutos
 
