@@ -9,7 +9,7 @@ output: html_document
 knitr::opts_chunk$set(echo = TRUE)
 ```
 
-El coloquio 2025 se llevará a cabo los días Viernes según la calendarización más abajo entre las 10.30 y 11.30 horas en la sala _por definir_ (más información a través del [Grupo de Google del Coloquio](#0)).
+El coloquio 2025 se llevará a cabo los días Viernes según la calendarización más abajo entre las 10.30 y 11.30 horas en la sala I-205 a excepción de las fechas en conjunto con la [FCEE](https://www.uandes.cl/facultad-de-ciencias-economicas-y-empresariales/) (más información a través del [Grupo de Google del Coloquio](#0)).
 
 La distribución del coloquio busca generar un espacio de exposición por parte del presentador durante 30 minutos y una discusión en torno a preguntas de la audiencia de otros 30 minutos
 
