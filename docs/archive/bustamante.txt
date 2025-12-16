@@ -1,0 +1,5 @@
+Esta charla se enfoca en Juegos de Seguridad de Stackelberg, un marco de Teoría de Juegos utilizado para modelar la protección de infraestructura crítica frente a atacantes. En estos juegos, un defensor asigna recursos de seguridad limitados anticipando la respuesta óptima del atacante. Un desafío central en estos problemas es su alta complejidad computacional, la cual está fuertemente determinada por la estructura del espacio de estrategias del defensor.
+
+Se muestra cómo las estructuras poliedrales de las estrategias del defensor pueden ser explotadas para diseñar métodos exactos de solución eficientes. Se analizan escenarios cuyas estrategias admiten formulaciones perfectas, así como casos más complejos donde esto no ocurre. Para abordar estos modelos a gran escala, se presentan métodos de branch-and-price y un nuevo enfoque de branch-and-cut, que supera significativamente al estado del arte en términos de tiempo de cómputo, manteniendo la optimalidad de las soluciones.
+
+La charla cierra con una breve discusión de ideas, distintas al foco principal de la presentación.
